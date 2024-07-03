@@ -13,6 +13,14 @@ The Summary View is divided into three main sections:
 ### Employee Records View
 A comprehensive list of all employees with filtering options based on available columns.
 
+## Screenshots 📷
+
+### HR Dashboard | Overview
+![Overview](images/HR Dashboard | Overview.png)
+
+### HR Dashboard | Details
+![Details](images/HR Dashboard | Details.png)
+
 ## Tableau Public Link
 View the dashboard on [Tableau Public](https://public.tableau.com/app/profile/ajmeera.roopchand/viz/HRDashboard_17200173732460/HRSummary)
 
